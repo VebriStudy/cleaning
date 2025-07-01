@@ -1,1 +1,1 @@
-web: gunicorn cleaning_api.wsgi
+web: gunicorn cleanservices.wsgi
